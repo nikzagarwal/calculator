@@ -31,3 +31,10 @@ button.calc-button{
     margin-right: 20px;
     float: right;
 }
+.floaty-last{
+    position: absolute;
+    right: 20px;
+    z-index: 99;
+    top:10px;
+    color:#aaa;
+}
